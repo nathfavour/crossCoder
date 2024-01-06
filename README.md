@@ -1,6 +1,8 @@
 # crossCoder
 maintain codebases across boundaries
 
+NB: crossCoder is meant for MacOs and linux devices; goodluck running this on Windows (you can give it a trial, with git bash installed)
+
 ## If you're on Windows, you can use this through git bash
 
 # USAGE
